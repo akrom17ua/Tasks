@@ -1,0 +1,10 @@
+Goal: Pick random prizes from a list.
+Steps:
+
+Create a list: prizes = ["computer", "iphone", "airpods", "book"].
+
+Use random.choices() three times to select random prizes.
+
+Append them to a new list collected_prizes.
+
+Print all collected prizes.
