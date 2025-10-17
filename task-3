@@ -1,0 +1,12 @@
+Dice Game
+
+Goal: Simulate a 3-round dice game between two players.
+Steps:
+
+Import random and assign player_1 and player_2 random numbers between 1–6 for three rounds each.
+
+Keep track of total scores (score_1 and score_2).
+
+After three rolls, compare the scores.
+
+Print whether Player 1 wins, Player 2 wins, or it’s a draw.
