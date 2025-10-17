@@ -1,0 +1,16 @@
+Grocery Shopping List
+
+Goal: Simulate buying items from a grocery list.
+Steps:
+
+Create a list: groceries = ["milk", "bread", "eggs", "cheese", "butter"].
+
+Ask the user which product they want to buy.
+
+If it exists, remove it and print "User bought <item>".
+
+If not, print "Not in the list".
+
+Print the updated list.
+
+Use try/except for input validation.
