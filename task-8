@@ -1,0 +1,12 @@
+Data Type Finder Function
+
+Goal: Identify and display the data type of user input.
+Steps:
+
+Define a function data_type_finder(n).
+
+Get user input and pass it to the function.
+
+Use type() to find and print its data type with a descriptive message.
+
+Handle unexpected errors with a message like "Something went wrong".
