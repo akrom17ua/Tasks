@@ -1,0 +1,16 @@
+Login System Using Dictionary
+
+Goal: Manage user login and registration using a dictionary.
+Steps:
+
+Create a dictionary: login_details = {"user1": "1234"}.
+
+Ask the user to enter their username.
+
+If it exists, ask for password and verify.
+
+If correct → print "Welcome".
+
+If wrong → print "Access denied".
+
+If username doesn’t exist → ask for new name and password and add to the dictionary.
