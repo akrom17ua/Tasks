@@ -1,0 +1,14 @@
+Goal: Calculate price with age-based discounts.
+Steps:
+
+Set price = 5.
+
+Ask for the user’s age (with error handling).
+
+If age < 18 → 20% discount.
+
+If age > 60 → 50% discount.
+
+If age between 18–60 → no discount.
+
+Print the final ticket price and prevent invalid age inputs.
