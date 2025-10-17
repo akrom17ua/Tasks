@@ -1,0 +1,12 @@
+Unique Number Finder
+
+Goal: Show unique numbers from a list using a set.
+Steps:
+
+Ask the user to enter numbers separated by commas.
+
+Convert them into a list of integers.
+
+Convert the list into a set to remove duplicates.
+
+Print both the original and unique sets.
