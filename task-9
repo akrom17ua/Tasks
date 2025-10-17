@@ -1,0 +1,10 @@
+Number Checker Function
+
+Goal: Check if a number is positive, negative, or zero.
+Steps:
+
+Define number_checker(num).
+
+Use if-elif-else to check the number’s sign.
+
+Handle non-integer inputs gracefully with a message like "Input must be integer".
