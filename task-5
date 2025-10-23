@@ -7,7 +7,7 @@ Ask the user for their age.
 
 Handle invalid or non-numeric input using try/except.
 
-If age is 0, negative, or non-integer, print appropriate error messages.
+If age is 0, negative, or non-integer, raise ValueError and print appropriate error messages like "Age cannot be negative and zero"
 
 If age ≥ 18 → "You are allowed to vote".
 
