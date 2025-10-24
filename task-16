@@ -1,0 +1,8 @@
+Number Checker Function
+Ask the player for a number.
+Create a function check_number(n) that:
+If n < 0 → say "Negative number".
+If n = 0 → say "Zero".
+If n > 0 → say "Positive number".
+
+Important! Use try/except block entered input should be number !
