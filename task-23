@@ -1,0 +1,8 @@
+Ask user if they are a student (yes/no).
+Ask user for purchase amount.
+Handle invalid input using try/except.
+If amount ≤ 0, raise ValueError with "Purchase amount must be positive"
+If student AND amount > 50 → "You get 20% student discount!"
+If amount > 100 → "You get 10% bulk purchase discount!"
+Else → "No discount applicable"
+
