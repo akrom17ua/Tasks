@@ -1,0 +1,7 @@
+Ask user for desired username.
+Handle empty input using try/except (raise ValueError with "Username cannot be empty").
+If length < 5 or length > 15 → "Username must be between 5 and 15 characters"
+If username contains spaces → "Username cannot contain spaces"
+If username contains only letters and numbers → "Username is available!"
+Else → "Username can only contain letters and numbers"
+
