@@ -1,0 +1,6 @@
+Ask user to enter a password.
+Ask user to re-enter the password.
+Handle empty input using try/except (raise ValueError with "Password cannot be empty").
+If passwords don't match → "Passwords do not match. Please try again."
+If password length < 8 → "Password too short. Minimum 8 characters required."
+Else → "Password set successfully!"
