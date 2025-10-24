@@ -1,0 +1,5 @@
+Create a set called numbers with values {1, 2, 3, 4, 5}
+Try to add one more using .add() method and print your set
+Try to remove one number using .remove() method and print your set
+Try to remove another number using .discard() method and print you set
+Lastly try to clear your set with .clear() method and print the final set
