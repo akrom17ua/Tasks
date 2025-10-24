@@ -1,0 +1,5 @@
+Ask user to enter a PIN.
+Handle non-numeric input using try/except (raise ValueError with "PIN must contain only digits").
+If length ≠ 4 → "PIN must be exactly 4 digits"
+If PIN contains repeating digits (like "1111") → "PIN too weak: avoid repeating digits"
+Else → "PIN is valid and secure"
