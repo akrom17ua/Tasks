@@ -1,0 +1,6 @@
+Create a list called Items with below values
+Items: ["milk", "bread", "eggs", "cheese", "butter"].
+Ask the user for an item.
+If it exists → remove it (bought).
+If not → say "Not on the list".
+Show the final list.
