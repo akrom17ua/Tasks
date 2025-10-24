@@ -1,0 +1,5 @@
+Ask the user for their email.
+Handle empty input using try/except (raise ValueError if empty).
+Check if email contains exactly one "@" symbol → if not, print "Invalid email: missing or multiple @ symbols"
+Check if there's a "." after the "@" → if not, print "Invalid email: missing domain extension"
+If both conditions pass → "Valid email address"
