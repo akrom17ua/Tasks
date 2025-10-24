@@ -1,0 +1,6 @@
+Dice Roll Race
+Two players roll dice (random 1–6).
+Store scores in variables Player1 and Player2.
+If Player1 > Player2 → say "Player 1 wins!".
+Else if Player2 > Player1 → say "Player 2 wins!".
+Else → say "It’s a tie!".
