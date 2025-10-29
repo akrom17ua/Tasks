@@ -1,0 +1,15 @@
+Ask the user for a word or sentence.
+
+Provide options:
+
+Convert to uppercase
+
+Convert to lowercase
+
+Replace a word
+
+Count a letter’s frequency
+
+Check if the text is alphabetic
+
+Apply the corresponding method and print results each time.
