@@ -1,0 +1,16 @@
+Create an empty dictionary called contacts.
+
+Ask the user for a name, phone, and email.
+
+Store it like this:
+contacts[name] = {"phone": phone, "email": email}
+
+Let users:
+
+Add new contact
+
+Delete contact
+
+View all contacts
+
+Include error handling for duplicates or missing keys.
