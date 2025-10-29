@@ -1,0 +1,7 @@
+Start with colors = ("red", "green", "blue").
+
+Ask the user if they want to add a new color.
+
+Convert the tuple to a list, add the color, and convert it back to a tuple.
+
+Print the new tuple and explain that tuples can’t be directly changed.
