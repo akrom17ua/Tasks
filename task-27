@@ -1,0 +1,8 @@
+Ask the user to enter any value.
+
+Detect its type using type() and print a message like:
+"This value is of type string"
+
+If it’s a number, tell whether it’s even, odd, positive, or negative.
+
+Handle unexpected inputs with try/except.
