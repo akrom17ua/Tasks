@@ -1,0 +1,13 @@
+Ask the user to input 5 student marks.
+
+Store them in a list.
+
+Calculate and print:
+
+The average mark
+
+The highest and lowest marks
+
+How many students passed (mark ≥ 50) #You need to count how many 50 + scores it will give the number of passed students
+
+Handle invalid entries (like strings instead of numbers).
