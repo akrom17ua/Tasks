@@ -1,0 +1,3 @@
+Ask the user for a product price and a discount percentage.
+Calculate the discount and print it with a message
+For example: price - 10$, discount - 10%, total amount with discount will be 9 $
