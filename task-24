@@ -1,0 +1,9 @@
+Create groceries = ["milk", "bread", "eggs"].
+
+Show options: add item, remove item, show all items, clear the list.
+
+After each choice, update and display the list.
+
+If the user tries to remove an item not in the list, show "Item not found!".
+
+Use a while loop so they can keep managing until they type "exit".
