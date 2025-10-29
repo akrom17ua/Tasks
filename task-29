@@ -1,0 +1,13 @@
+Create a dictionary like library = {"Harry Potter": "available", "1984": "borrowed"}.
+
+Ask the user if they want to “borrow”, “return”, or “add” a book.
+
+If “borrow”: mark the book as "borrowed" if it’s available.
+
+If “return”: mark it as "available".
+
+If “add”: let them add a new title to the dictionary.
+
+Print the updated library each time.
+
+Handle missing or invalid book titles gracefully.
