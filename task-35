@@ -1,0 +1,13 @@
+Ask the user to enter the total amount spent.
+
+Apply discounts:
+
+Over 100 → 20% off
+
+50–100 → 10% off
+
+Under 50 → No discount
+
+Show the final amount after discount.
+
+Include error handling for negative or non-numeric amounts.
