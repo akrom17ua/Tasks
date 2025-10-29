@@ -1,0 +1,16 @@
+Create a dictionary:
+accounts = {"alex": "1234", "maria": "abcd"}
+
+Ask the user to either:
+
+Login
+
+Register
+
+If “login”: check username and password — if wrong, print "Access denied".
+
+If “register”: add a new username and password to the dictionary.
+
+Prevent duplicate usernames.
+
+Use try/except for invalid actions.
