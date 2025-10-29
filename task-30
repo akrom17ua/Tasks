@@ -1,0 +1,16 @@
+Create a dictionary:
+menu = {"pizza": 8, "pasta": 7, "salad": 5}
+
+Ask the user to:
+
+Add a new item with a price.
+
+Change the price of an existing item.
+
+Delete an item.
+
+Show the full menu.
+
+Use loops to keep the system running until the user types "exit".
+
+Handle wrong inputs or prices with try/except.
