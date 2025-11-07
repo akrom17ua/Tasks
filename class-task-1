@@ -1,0 +1,6 @@
+Create a Calculator class with methods:
+add(a, b)
+subtract(a, b)
+multiply(a, b)
+divide(a, b)
+Use try/except to handle division by zero.
