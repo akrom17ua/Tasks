@@ -1,0 +1,6 @@
+Car Simulator
+Make a class Car with attributes: brand, color, and speed (start from 0).
+Add methods:
+accelerate() → increases speed by 10
+brake() → decreases speed by 10
+Print the speed after each action.
