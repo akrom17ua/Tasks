@@ -1,0 +1,6 @@
+Student Grades
+Class Student has name and grades (a list).
+Add methods:
+add_grade(grade)
+average() → returns average grade
+Create two students and compare their averages.
