@@ -1,6 +1,18 @@
-Student Grades
-Class Student has name and grades (a list).
+create Class Student and it should have two attributes name and grades (grades should be a list).
 Add methods:
 add_grade(grade)
-average() → returns average grade
-Create two students and compare their averages.
+average() → returns average grade (Hint! to get average sum all list values and divide by its length)
+Create an instance of Student and call all methods
+
+class Student:
+    def __init__(self, name, grades):
+       #Instantiate attributes name and grades -> ex: self.name = name 
+
+    def add_grade(self, grade):
+       #Add this grade to grades list
+
+    def average(self):
+        average = sum(self.grades) / len(self.grades)
+        #Print the average with a good message
+
+#Create an instance of Student class and call all methods available
