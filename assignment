@@ -1,0 +1,46 @@
+Requirements
+1. Create a class called Pet
+
+It should have these attributes below :
+
+self.name = name (string)
+
+self.animal_type = animal_type (string, like “cat”, “dog”)
+
+slef.hunger = hunger (number starting from 50)
+
+self.energy = energy (number starting from 50)
+
+2. Add methods
+
+def feed(self, amount)
+
+decrease hunger by amount
+
+if hunger goes below 0, set it to 0
+
+print a message: "You fed <name>. Hunger is now <hunger>"
+
+def play(self, minutes)
+
+decrease energy by minutes * 2
+
+increase hunger by minutes * 1
+
+if energy goes below 0, set it to 0
+
+print a message showing the new energy and hunger
+
+def rest(self, hours)
+
+increase energy by hours * 5
+
+energy cannot go above 100
+
+def status(self)
+
+print the pet’s name, hunger, and energy
+
+if hunger > 70 → print "⚠ <name> is very hungry!"
+
+if energy < 20 → print "⚠ <name> is very tired!"
