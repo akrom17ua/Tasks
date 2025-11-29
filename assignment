@@ -37,10 +37,4 @@ increase energy by hours * 5
 
 energy cannot go above 100
 
-def status(self)
 
-print the pet’s name, hunger, and energy
-
-if hunger > 70 → print "⚠ <name> is very hungry!"
-
-if energy < 20 → print "⚠ <name> is very tired!"
