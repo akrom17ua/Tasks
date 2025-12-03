@@ -1,0 +1,7 @@
+Create a folder called "my_project" and inside it create a virtual environment.
+2. Activate your virtual environment.
+3. Use pip to install any package you want (example: requests).
+4. Use pip list to see all installed packages.
+5. Use pip show to check details of one package.
+6. Uninstall a package using pip.
+7. Create requirements.txt using pip freeze.
