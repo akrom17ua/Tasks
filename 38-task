@@ -1,0 +1,45 @@
+Create a class called Pet
+
+It should have:
+
+name (string)
+
+animal_type (string, like “cat”, “dog”)
+
+hunger (number starting from 50)
+
+energy (number starting from 50)
+
+2. Add methods
+
+feed(amount)
+
+decrease hunger by amount
+
+if hunger goes below 0, set it to 0
+
+print a message: "You fed <name>. Hunger is now <hunger>"
+
+play(minutes)
+
+decrease energy by minutes * 2
+
+increase hunger by minutes * 1
+
+if energy goes below 0, set it to 0
+
+print a message showing the new energy and hunger
+
+rest(hours)
+
+increase energy by hours * 5
+
+energy cannot go above 100
+
+status()
+
+print the pet’s name, hunger, and energy
+
+if hunger > 70 → print "⚠ <name> is very hungry!"
+
+if energy < 20 → print "⚠ <name> is very tired!"
