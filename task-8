@@ -3,10 +3,12 @@ Data Type Finder Function
 Goal: Identify and display the data type of user input.
 Steps:
 
-Define a function data_type_finder(n).
+Create a function data_type_finder().
 
-Get user input and pass it to the function.
+Ask the user for an input
 
 Use type() to find and print its data type with a descriptive message.
 
-Handle unexpected errors with a message like "Something went wrong".
+For example: word = "Hello" -> type(word) gives us string and you need to print "Word is string data type" you can store the type of word in another variable
+input_type = type(word)
+print(f"{word} is {input_type})
