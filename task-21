@@ -1,7 +1,7 @@
 Ask user for a year.
-Handle invalid or non-numeric input using try/except.
-If year ≤ 0, raise ValueError with "Year must be positive"
-If divisible by 400 → "Leap year"
-Else if divisible by 100 → "Not a leap year"
-Else if divisible by 4 → "Leap year"
-Else → "Not a leap year"
+if it is not number -> print "Enter valid year " You can check it using year.isdigit()
+If year ≤ 0, print "Year must be positive"
+If divisible by 400 → print "Leap year" # Divisible means when you divide it by number there should not be any remainder you can do -> if year % 400 == 0:
+Else if divisible by 100 → print "Not a leap year"
+Else if divisible by 4 → print "Leap year"
+Else → print "Not a leap year"
