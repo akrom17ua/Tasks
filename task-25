@@ -1,7 +1,10 @@
 Start with colors = ("red", "green", "blue").
 
-Ask the user if they want to add a new color.
+Ask the user if they want to add a new color - > ask "Would you like to add a new color ? yes/no "
+If the user enters yes take an input for color and add it to your list
+Print the updated lis
+Else print "Bye thanks for using my app!"
 
-Convert the tuple to a list, add the color, and convert it back to a tuple.
 
-Print the new tuple and explain that tuples can’t be directly changed.
+Important ! Convert the tuple to a list to add the color because tuples cannot be changed !
+
