@@ -1,8 +1,10 @@
+Create a small program
 Ask the user to enter any value.
 
 Detect its type using type() and print a message like:
 "This value is of type string"
 
 If it’s a number, tell whether it’s even, odd, positive, or negative.
+Ex: you can check for even like this -> if number % 2 == 0 this will be even otherwise it will be odd
 
-Handle unexpected inputs with try/except.
+
