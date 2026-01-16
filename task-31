@@ -4,10 +4,11 @@ Store them in a list.
 
 Calculate and print:
 
-The average mark
+The average mark -> You need to add all marks and divide it by 5
 
-The highest and lowest marks
+The highest and lowest marks -> Use max() and min() functions. Ex: print(max(your_list_name))
 
-How many students passed (mark ≥ 50) #You need to count how many 50 + scores it will give the number of passed students
+How many students passed (mark ≥ 50) # Ex : your_list_name.count(score)
 
-Handle invalid entries (like strings instead of numbers).
+
+
