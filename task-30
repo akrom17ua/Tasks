@@ -3,14 +3,13 @@ menu = {"pizza": 8, "pasta": 7, "salad": 5}
 
 Ask the user to:
 
-Add a new item with a price.
+Enter a new item with price and add it to menu dictionary and print it
 
-Change the price of an existing item.
+Change the price of an existing item any random one and print it
 
-Delete an item.
+Delete any one item from dictionary and print it
 
-Show the full menu.
+Finally print the full menu again
 
-Use loops to keep the system running until the user types "exit".
 
-Handle wrong inputs or prices with try/except.
+
