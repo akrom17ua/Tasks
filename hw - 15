@@ -1,0 +1,17 @@
+Create a class called Order
+
+The class should have these attributes :
+    customer_name 
+    items 
+
+Create a method called add_item(name, price)
+    Adds item to the items dictionary
+    Price must be greater than 0
+    If item already exists → do not add again
+
+Create an instance method called get_total():
+    Calculates and returns the total price of all items
+
+Create get_order_type() instance method: 
+    If total ≥ 100 → print "Expensive Order"
+    Else → print "Normal Order"
