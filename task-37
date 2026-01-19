@@ -13,4 +13,4 @@ If “register”: add a new username and password to the dictionary.
 
 Prevent duplicate usernames.
 
-Use try/except for invalid actions.
+
