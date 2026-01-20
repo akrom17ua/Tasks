@@ -2,12 +2,10 @@ Ask the user to enter a username.
 
 Check that:
 
-It’s at least 5 characters long.
+It’s at least 5 characters long. # Ex : print(your_variable_name <= 5). Similarly you need to print below
 
-It contains only letters or digits (.isalnum()).
+It contains only letters or digits (.isalnum())
 
 It starts with a letter (.isalpha()).
 
-Print appropriate feedback messages.
 
-Use try/except to handle empty input.
