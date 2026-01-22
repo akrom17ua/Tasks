@@ -1,0 +1,12 @@
+student = {
+    "name": "Ali",
+    "age": 14,
+    "scores": [70, 85, 90]
+}
+Task:
+
+Calculate average score
+
+Add new key "average"
+
+Print updated dictionary
