@@ -1,0 +1,10 @@
+Ask the user to enter a username
+Remove spaces from start and end
+If username is None or empty:
+             Print "Invalid username"
+Else if:
+             first letter is not a letter or
+             length is less than 4
+             Print "Username not allowed"
+Else:
+             Print "Username accepted"
