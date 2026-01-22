@@ -1,0 +1,5 @@
+Ask the user for a word
+If the first letter equals the last letter:
+          Print "Same start and end"
+Else:
+          Print "Different letters"
