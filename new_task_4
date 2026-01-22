@@ -1,0 +1,8 @@
+Ask user for password
+Check:
+length ≥ 6
+contains "@" or "#"
+If both conditions are true:
+           Print "Strong password"
+Else:
+           Print "Weak password"
