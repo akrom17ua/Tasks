@@ -1,0 +1,6 @@
+numbers = [10, 20, 30, 40]
+Task:
+
+Write a function that calculates and returns the average
+
+Do NOT use built-in sum()
