@@ -1,0 +1,9 @@
+Ask user to input an email
+Remove spaces
+If:
+          "@" in email
+           email ends with ".com"
+           Print "Valid email"
+Else:
+           Print "Invalid email"
+Hint! use: in, endswith(), logical operators
