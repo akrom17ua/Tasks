@@ -1,0 +1,8 @@
+scores = [45, 78, 90, 32, 60, 88]
+Task:
+
+Count how many scores are pass (≥ 60)
+
+Count how many are fail
+
+Print both results
