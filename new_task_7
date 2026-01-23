@@ -1,5 +1,5 @@
 Ask user to input an email
-Remove spaces
+Remove spaces . Ex: email = email.strip()
 If:
           "@" in email
            email ends with ".com"
