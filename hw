@@ -1,0 +1,15 @@
+Ask the user for username
+Ask the user for password
+attempts = 2
+
+Task:
+
+Block login if password is None  OR attempts > 3 - > print("Account blocked")
+
+Allow login only if:
+
+username == "admin" AND
+
+password is NOT None
+
+print("Login successful")
