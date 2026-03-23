@@ -1,0 +1,12 @@
+Create a program Simple Student Tracker (Functions Version)
+
+Data Types:
+name (string), scores (list), is_active (boolean)
+
+Functions:
+add_score(scores, score) → add score to list and print updated list
+average_score(scores) → return average score
+get_status(scores) → return "Passed" if average ≥ 70 else "Failed"
+activate(is_active) → set to True
+deactivate(is_active) → set to False
+get_info(name, scores, is_active) → return student info
