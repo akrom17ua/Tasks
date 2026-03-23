@@ -1,0 +1,10 @@
+Create a program Delivery System (Functions Version)
+
+Data Types:
+order_id (int), address (string), distance (float), price (float), is_delivered (boolean)
+
+Functions:
+calculate_price(distance) → return distance * 2
+mark_delivered(is_delivered) → change status to True and print message
+update_address(address, new_address) → update and return new address
+get_status(order_id, address, distance, price, is_delivered) → return delivery info
