@@ -1,0 +1,11 @@
+Create a program Course Management System (Functions Version)
+
+Data Types:
+course_name (string), teacher (string), students (list), grades (list), is_active (boolean)
+
+Functions:
+add_student(students, grades, student_name, grade) → add student and grade, print updated students
+remove_student(students, grades, student_name) → remove student and corresponding grade, print updated list
+average_grade(grades) → calculate and return average grade
+top_student(students, grades) → return student with highest grade
+get_course_info(course_name, teacher, students, grades, is_active) → return all course info in clean format
