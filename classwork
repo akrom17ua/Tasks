@@ -1,0 +1,31 @@
+Create a program Restaurant Order System (Functions Version)
+
+Data Types:
+
+customer_name (string)
+items (list)
+prices (list)
+total_price (float)
+is_paid (boolean)
+
+Functions:
+
+def add_item(items, prices, item_name, price)
+
+Add item_name to items list and price to prices list. Print updated items list.
+
+def calculate_total(prices)
+
+Calculate and return total price using the prices list.
+
+def remove_item(items, prices, item_name)
+
+Remove item from items list and also remove corresponding price. Print updated list.
+
+def pay_order(is_paid)
+
+Change payment status to True and print confirmation message.
+
+def get_order_summary(customer_name, items, total_price, is_paid)
+
+Return all order information in a clean format.
