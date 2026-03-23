@@ -1,0 +1,21 @@
+#task1
+Create a function that takes a list of scores.
+
+Remove scores below 40
+Calculate average of remaining scores
+Return "Passed" if average ≥ 60 else "Failed".
+
+
+------------------------------------------------
+
+#task 2 
+Create a function that takes two numbers and an operator (+, -, *, /).
+Perform operation using conditionals and return result. Handle division by zero.
+
+--------------------------------------------------------------------------------
+# task 3
+Create a function that checks if an email:
+
+Contains "@"
+Ends with ".com"
+Return True or False.
