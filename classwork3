@@ -1,0 +1,11 @@
+Create a program Laptop Usage System (Functions Version)
+
+Data Types:
+brand (string), ram (int), storage (int), battery (float), is_on (boolean)
+
+Functions:
+turn_on(is_on) → set to True
+turn_off(is_on) → set to False
+use_laptop(battery, hours) → decrease battery (1 hour = 10%)
+charge_laptop(battery, amount) → increase battery but not above 100
+get_info(brand, ram, storage, battery, is_on) → return laptop info
