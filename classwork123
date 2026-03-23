@@ -1,0 +1,10 @@
+Create a program Simple Bank System (Functions Version)
+
+Data Types:
+owner (string), balance (float), is_active (boolean)
+
+Functions:
+deposit(balance, amount) → add money
+withdraw(balance, amount) → subtract if enough balance
+activate(is_active) → set to True
+get_account_info(owner, balance, is_active) → return account info
