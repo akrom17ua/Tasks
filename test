@@ -1,0 +1,24 @@
+Create a function that:
+
+Takes a list of numbers
+Prints:
+total sum
+average
+how many are even
+how many are odd
+Return the largest number
+
+--------------------------------
+
+data = [10, "20", 30, "40", "hello", 50]
+Convert all possible values to integers
+Ignore invalid values
+Store valid numbers in a new list
+Print the sum
+
+-----------------------------------
+
+Create a function that:
+
+Takes a list and a number n
+Returns a list of elements greater than n
