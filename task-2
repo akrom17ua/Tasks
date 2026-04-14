@@ -7,7 +7,7 @@ Create an empty list called passwords = [].
 
 Ask the user whether they want to login or register.
 
-If they type anything else, raise an exception with a clear message.
+If they type anything else, say "Invalid operation"
 
 If “register”: ask for a new password, append it to the list, and confirm registration.
 
