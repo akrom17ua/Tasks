@@ -10,4 +10,3 @@ If “add”: let them add a new title to the dictionary.
 
 Print the updated library each time.
 
-Handle missing or invalid book titles gracefully.
